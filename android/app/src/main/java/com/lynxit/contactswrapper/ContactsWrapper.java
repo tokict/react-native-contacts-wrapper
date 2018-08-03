@@ -32,8 +32,8 @@ import com.facebook.react.uimanager.ViewManager;
 
 public class ContactsWrapper extends ReactContextBaseJavaModule implements ActivityEventListener {
 
-    private static final int CONTACT_REQUEST = 1;
-    private static final int EMAIL_REQUEST = 2;
+    private static final int CONTACT_REQUEST = 12223;
+    private static final int EMAIL_REQUEST = 24475;
     public static final String E_CONTACT_CANCELLED = "E_CONTACT_CANCELLED";
     public static final String E_CONTACT_NO_DATA = "E_CONTACT_NO_DATA";
     public static final String E_CONTACT_NO_EMAIL = "E_CONTACT_NO_EMAIL";
